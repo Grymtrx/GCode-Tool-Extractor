@@ -1,4 +1,4 @@
-# GCode Tool Extractor
+# <img src="Tool Icon.png" width="45" height="45" />  GCode Tool Extractor
 A Python desktop utility for parsing HyperMILL and other G-code posts to generate clean tool lists.
 
 ## How to run
